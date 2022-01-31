@@ -11,6 +11,7 @@ void main()
 	gets(s1);
 	printf("\nEnter second string:");
 	gets(s2);
+	\\ please perform program for strlen()
 	if(strcmp(s1,s2)==0)
 	{
 	 printf("\n You entered the same string two time:");
